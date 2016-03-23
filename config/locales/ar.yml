@@ -2,7 +2,7 @@ ar:
   site:
     title: Local Welcome
     hero_text: تعقد مؤسسة "لوكال ويلكم" اجتماعات شهرية في اماكن عامة لمساعدة اللاجئين لتعلم اللغة الانكليزية و التطوع ضمن المجتمع والعودة الى العمل
-    signed_in_as: Signed in as <a href="%{link}">%{email}</a>
+    signed_in_as: تسجيل الدخول كـ <a href="%{link}">%{email}</a>
     admin_dashboard: Admin dashboard
     sign_out: تسجيل الخروج
     sign_in: تسجيل الدخول
