@@ -32,17 +32,17 @@ ar:
 
   chapter:
     name: Local Welcome %{name}
-    description: Local Welcome %{name} &ndash; upcoming events and details of our meet-up.
+    description: Local Welcome %{name} &ndash; الأنشطة القادمة والتفاصيل عن لقاءاتنا .
     manage: Manage this chapter
-    upcoming_events: Upcoming events
-    past_events: Past events
-    next_event: Our next event
-    no_upcoming_events: No upcoming events
-    no_past_events: No past events
-    get_involved: Get involved with Local Welcome %{name}
-    get_involved_text: Local Welcome is run entirely by volunteers. We need people who can give a few hours of their time to share their knowledge, skills, and friendliness with people who have arrived recently. Sign up for Local Welcome and you'll receive emails about our upcoming events, as well as details of the skills we're looking for.
-    sign_up: Sign up to Local Welcome %{name}
-    not_ready: Not ready to sign up yet? <a href="%{link}">Learn more about Local Welcome first</a>.
+    upcoming_events: الأنشطة القادمة
+    past_events: الأنشطة السابقة
+    next_event:  النشاط التالي
+    no_upcoming_events: لا يوجد
+    no_past_events: لا يوجد
+    get_involved: شارك مع "لوكال ويلكم" %{name}
+    get_involved_text: تدار مجموعة "لوكال ويلكم" كلياً عن طريق متطوعين. نحن بحاجة لأشخاص ممّن يمكنهم إعطاء بضعة ساعات من أوقاتهم لمشاركة المعارف والمهارات و الود مع الناس الواصلين م}خراً.أشترك معنا وسوف يصلك إيميلات لإعلاماك بالنشاطات القادمة، بالإضافة إلى تفاصيل المهارات التي نبحث عنها.
+    sign_up: اشترك معنا %{name}
+    not_ready: غير جاهز للإشتراك بعد؟ <a href="%{link}">اعرف المزيد عن "لوكال ويلكم" أولاً</a>.
 
   groups:
     group_header: اعثر على أقرب مجموعة إليك
