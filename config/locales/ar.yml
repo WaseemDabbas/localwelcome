@@ -21,8 +21,8 @@ ar:
       youtube: شاهد فيديوهاتنا على <a href="https://www.youtube.com/channel/UCnpIvBCeBJ7SLjYZ__KxVCw">YouTube</a>
       established: 2015 Local Welcome تم تأسيس لمعرفة المزيد <a href="%{link}">حول المشروع</a>
       open_source: Our website is <a href="https://github.com/creature/localwelcome">open source</a>.
-    generic_error: Sorry, something went wrong.
-    error_with_details: "Sorry, something went wrong: %{details}"
+    generic_error: عذراً، حدث خطأ ما
+    error_with_details: "عذراً، حدث خطأ ما: %{details}"
 
   static:
     how_it_works: "آلية العمل"
